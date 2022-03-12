@@ -1,0 +1,19 @@
+.dialogsItems .active {
+    color: orangered;
+}
+.item {
+    margin: 20px;
+    color: white;
+}
+.item a {
+    text-decoration: none;
+    color: white;
+}
+.item a.active {
+    color: orangered;
+}
+.messageAva {
+    height: 60px;
+    width: 60px;
+    border-radius: 40px;
+}

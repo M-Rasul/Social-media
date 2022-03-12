@@ -1,0 +1,46 @@
+.dialogs {
+    display: grid;
+    grid-template-columns: 4fr 10fr;
+    margin: 0px;
+}
+.dialogsItems {
+    padding: 10px;
+    font-family: 'Robo';
+    font-size: 100%;
+    background-color: black;
+}
+.messages {
+    padding: 10px;
+    margin-left: 0;
+    background-color: orangered;
+}
+footer {
+    margin-top: 70px;
+}
+.messageArea {
+    margin-left: 150px;
+    width: 400px;
+    height: 40px;
+    float: left;
+    border-radius: 20px;
+    padding: 10px;
+    background-color: black;
+    color: orangered;
+}
+div.messageSend {
+    text-align: center;
+    margin-left: 0;
+}
+.send {
+    background-color: black;
+    color: orangered;
+    height: 60px;
+    width: 110px;
+    text-align: center;
+    border-radius: 60px;
+    font-family: 'Robo';
+    font-size: 150%;
+}
+.send:hover {
+    color: white;
+}

@@ -1,0 +1,13 @@
+.messageImg {
+    height: 40px;
+    width: 40px;
+    border-radius: 10px;
+}
+p.likes {
+    font-size: 80%;
+    margin-left: 30px;
+    color: orangered;
+}
+.post {
+    margin: 30px;
+}

@@ -1,0 +1,29 @@
+div.posts {
+    margin-top: 200px;
+    margin-left: 20px;
+  }
+  textarea {
+    width: 900px;
+    height: 50px;
+    border: none;
+    background-color: lightgray;
+  }
+  button {
+    border: none;
+    background-color: orangered;
+    color: white;
+    width: 110px;
+    height: 25px;
+    text-align: left;
+  }
+  div.button {
+    text-align: right;
+    margin-right: 156px;
+    margin-top: 15px;
+  }
+  div.sepPost {
+    margin: 30px;
+  }
+  .postNew {
+    margin-top: 50px;
+  }

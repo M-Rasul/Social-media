@@ -1,0 +1,26 @@
+.header {
+    grid-area: h;
+    background-color: black;
+    color: orangered;
+  }
+  .head {
+    margin-top: 40px;
+    margin-left: 150px;
+    font-family: 'Robo';
+    font-size: 200%;
+    float: left;
+  }
+  .header img {
+    width: 109px;
+    height: 110px;
+  }
+  img.float {
+    float: left;
+    height: 100px;
+  }
+  .loginBlock {
+      margin-left: 1000px;
+  }
+  .loginBlock a {
+    color: white;
+  }

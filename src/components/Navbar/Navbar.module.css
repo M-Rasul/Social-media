@@ -1,0 +1,34 @@
+
+.nav {
+    grid-area: n;
+    background-color: orangered;
+    text-align: center;
+    margin-top: 10px;
+  }
+  .menuOptions {
+    margin: 10px;
+  }
+  .settings {
+    margin-top: 50px;
+  }
+  .menuWrapper {
+    margin-top: 50px;
+    font-family: 'Robo';
+  }
+  .menuOptions a {
+      text-decoration: none;
+      color: black;
+  }
+  .settings a {
+      text-decoration: none;
+      color: black;
+  }
+  .menuOptions a.active {
+      color: white;
+  }
+  .settings a.active {
+      color: white;
+  }
+  .friends {
+      margin-top: 50px;
+  }

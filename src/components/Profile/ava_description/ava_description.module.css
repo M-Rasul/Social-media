@@ -1,0 +1,21 @@
+img.round {
+    height: 150px;
+    width: 150px;
+    border-radius: 100px;
+  }
+  section.floatAva {
+    float: left;
+    margin-right: 30px;
+  }
+  div.profileInfo {
+    margin-top: 15px;
+  }
+  div.clear {
+    clear: both;
+  }
+  h2.name {
+    margin: 30px;
+  }
+  p {
+    margin: 0;
+  }
